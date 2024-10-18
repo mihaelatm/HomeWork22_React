@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+h2 {
+  font-size: 34px;
+  color: #ff4d4f;
+  text-align: center;
+}
